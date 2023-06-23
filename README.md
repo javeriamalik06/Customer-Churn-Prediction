@@ -3,15 +3,15 @@ This repository contains code and report for my Kaggle Telecom Customer Churn Pr
 
 _**Executive Summary**_
 
-This project focused on addressing customer churn in a telecom company by _developing a logistic 
-regression model and implementing customer segmentation using a decision tree_. The logistic 
+This project focused on addressing customer churn in a telecom company by **developing a logistic 
+regression model** and implementing customer segmentation using a decision tree. The logistic 
 regression model successfully predicted customer churn, allowing the company to take proactive 
-_measures to retain customers and reduce churn rates_. By analyzing customer data and identifying 
-key characteristics associated with churn, _customer segmentation_ provided valuable insights for 
+**measures to retain customers and reduce churn rates**. By analyzing customer data and identifying 
+key characteristics associated with churn, customer segmentation provided valuable insights for 
 targeted marketing strategies and personalized customer experiences.
 
-Furthermore, the project evaluated the performance of the **logistic regression model and decision 
-tree** predictions through various metrics, including the calculation of expected profit for churners. 
+Furthermore, the project evaluated the performance of the logistic regression model and **decision 
+tree predictions** through various metrics, including the calculation of expected profit for churners. 
 This analysis provided a comprehensive understanding of the effectiveness of the models and their 
 potential impact on the **company's profitability**.
 

@@ -1,7 +1,7 @@
 # Telecom-Customer-Churn-Prediction
 This repository contains code and report for my Kaggle Telecom Customer Churn Prediction project which entailed the development of Machine Learning models, including Logistic Regression and Decision Trees, to accurately forecast customer churn and profitability for a telecommunications company.
 
-**Executive Summary**
+_**Executive Summary**_
 
 This project focused on addressing customer churn in a telecom company by _developing a logistic 
 regression model and implementing customer segmentation using a decision tree_. The logistic 
@@ -13,7 +13,7 @@ targeted marketing strategies and personalized customer experiences.
 Furthermore, the project evaluated the performance of the **logistic regression model and decision 
 tree** predictions through various metrics, including the calculation of expected profit for churners. 
 This analysis provided a comprehensive understanding of the effectiveness of the models and their 
-potential impact on the company's **profitability**.
+potential impact on the **company's profitability**.
 
 The findings of this project emphasize the importance of proactive customer retention strategies 
 based on the logistic regression model's predictions. By identifying customers at high risk of churn, 
